@@ -1,0 +1,12 @@
+- take the score inputs for five students and store in an array of objects
+
+-output the scores as a string and number conctenated. 
+
+-using methods, calculate total scores for each student and index them.
+
+- use relational operators to sort them into positions according to index.. i.e first index is last position
+
+highest score - lowest index according to total.
+ lowest score  - highest index according to total
+ average - total score of student/4
+
